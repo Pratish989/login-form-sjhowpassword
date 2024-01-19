@@ -1,0 +1,326 @@
+[
+  {
+    "name": "Navigate",
+    "subHooks": [
+      {
+        "name": "Context",
+        "value": {
+          "outlet": null,
+          "matches": "[{…}, {…}]",
+          "isDataRoute": false
+        },
+        "subHooks": [],
+        "hookSource": {
+          "lineNumber": 3311,
+          "functionName": "useNavigate",
+          "fileName": "http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=2dd9257e",
+          "columnNumber": 13
+        }
+      },
+      {
+        "name": "NavigateUnstable",
+        "subHooks": [
+          {
+            "name": "InRouterContext",
+            "subHooks": [
+              {
+                "name": "Context",
+                "value": {
+                  "location": "{hash: \"\", key: \"2ej1at0d\", pathname: \"/login\", sea…}",
+                  "navigationType": "POP"
+                },
+                "subHooks": [],
+                "hookSource": {
+                  "lineNumber": 3275,
+                  "functionName": "useInRouterContext",
+                  "fileName": "http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=2dd9257e",
+                  "columnNumber": 16
+                }
+              }
+            ],
+            "hookSource": {
+              "lineNumber": 3315,
+              "columnNumber": 4,
+              "functionName": "useNavigateUnstable",
+              "fileName": "http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=2dd9257e"
+            }
+          },
+          {
+            "name": "Context",
+            "value": null,
+            "subHooks": [],
+            "hookSource": {
+              "lineNumber": 3321,
+              "functionName": "useNavigateUnstable",
+              "fileName": "http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=2dd9257e",
+              "columnNumber": 33
+            }
+          },
+          {
+            "name": "Context",
+            "value": {
+              "basename": "/",
+              "navigator": "{action: \"POP\", createHref: ƒ createHref() {}, crea…}",
+              "static": false,
+              "future": "{v7_relativeSplatPath: false}"
+            },
+            "subHooks": [],
+            "hookSource": {
+              "lineNumber": 3326,
+              "functionName": "useNavigateUnstable",
+              "fileName": "http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=2dd9257e",
+              "columnNumber": 13
+            }
+          },
+          {
+            "name": "Context",
+            "value": {
+              "outlet": null,
+              "matches": "[{…}, {…}]",
+              "isDataRoute": false
+            },
+            "subHooks": [],
+            "hookSource": {
+              "lineNumber": 3329,
+              "functionName": "useNavigateUnstable",
+              "fileName": "http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=2dd9257e",
+              "columnNumber": 13
+            }
+          },
+          {
+            "name": "Location",
+            "subHooks": [
+              {
+                "name": "InRouterContext",
+                "subHooks": [
+                  {
+                    "name": "Context",
+                    "value": {
+                      "location": "{hash: \"\", key: \"2ej1at0d\", pathname: \"/login\", sea…}",
+                      "navigationType": "POP"
+                    },
+                    "subHooks": [],
+                    "hookSource": {
+                      "lineNumber": 3275,
+                      "functionName": "useInRouterContext",
+                      "fileName": "http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=2dd9257e",
+                      "columnNumber": 16
+                    }
+                  }
+                ],
+                "hookSource": {
+                  "lineNumber": 3278,
+                  "columnNumber": 4,
+                  "functionName": "useLocation",
+                  "fileName": "http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=2dd9257e"
+                }
+              },
+              {
+                "name": "Context",
+                "value": {
+                  "location": "{hash: \"\", key: \"2ej1at0d\", pathname: \"/login\", sea…}",
+                  "navigationType": "POP"
+                },
+                "subHooks": [],
+                "hookSource": {
+                  "lineNumber": 3284,
+                  "functionName": "useLocation",
+                  "fileName": "http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=2dd9257e",
+                  "columnNumber": 16
+                }
+              }
+            ],
+            "hookSource": {
+              "lineNumber": 3332,
+              "columnNumber": 7,
+              "functionName": "useNavigateUnstable",
+              "fileName": "http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=2dd9257e"
+            }
+          },
+          {
+            "name": "Ref",
+            "value": true,
+            "subHooks": [],
+            "hookSource": {
+              "lineNumber": 3334,
+              "functionName": "useNavigateUnstable",
+              "fileName": "http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=2dd9257e",
+              "columnNumber": 25
+            }
+          },
+          {
+            "name": "IsomorphicLayoutEffect",
+            "subHooks": [
+              {
+                "name": "Context",
+                "value": {
+                  "basename": "/",
+                  "navigator": "{action: \"POP\", createHref: ƒ createHref() {}, crea…}",
+                  "static": false,
+                  "future": "{v7_relativeSplatPath: false}"
+                },
+                "subHooks": [],
+                "hookSource": {
+                  "lineNumber": 3303,
+                  "functionName": "useIsomorphicLayoutEffect",
+                  "fileName": "http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=2dd9257e",
+                  "columnNumber": 24
+                }
+              },
+              {
+                "name": "LayoutEffect",
+                "value": "ƒ () {}",
+                "subHooks": [],
+                "hookSource": {
+                  "lineNumber": 3305,
+                  "functionName": "useIsomorphicLayoutEffect",
+                  "fileName": "http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=2dd9257e",
+                  "columnNumber": 11
+                }
+              }
+            ],
+            "hookSource": {
+              "lineNumber": 3335,
+              "columnNumber": 3,
+              "functionName": "useNavigateUnstable",
+              "fileName": "http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=2dd9257e"
+            }
+          },
+          {
+            "name": "Callback",
+            "value": "ƒ () {}",
+            "subHooks": [],
+            "hookSource": {
+              "lineNumber": 3338,
+              "functionName": "useNavigateUnstable",
+              "fileName": "http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=2dd9257e",
+              "columnNumber": 24
+            }
+          }
+        ],
+        "hookSource": {
+          "lineNumber": 3312,
+          "columnNumber": 46,
+          "functionName": "useNavigate",
+          "fileName": "http://localhost:5173/node_modules/.vite/deps/react-router-dom.js?v=2dd9257e"
+        }
+      }
+    ],
+    "hookSource": {
+      "lineNumber": 68,
+      "columnNumber": 20,
+      "functionName": "LoginPage",
+      "fileName": "http://localhost:5173/src/pages/public/LoginPage.jsx?t=1705669800683"
+    }
+  },
+  {
+    "name": "State",
+    "value": "",
+    "subHooks": [],
+    "hookSource": {
+      "lineNumber": 69,
+      "functionName": "LoginPage",
+      "fileName": "http://localhost:5173/src/pages/public/LoginPage.jsx?t=1705669800683",
+      "columnNumber": 29
+    }
+  },
+  {
+    "name": "State",
+    "value": "",
+    "subHooks": [],
+    "hookSource": {
+      "lineNumber": 70,
+      "functionName": "LoginPage",
+      "fileName": "http://localhost:5173/src/pages/public/LoginPage.jsx?t=1705669800683",
+      "columnNumber": 35
+    }
+  },
+  {
+    "name": "State",
+    "value": false,
+    "subHooks": [],
+    "hookSource": {
+      "lineNumber": 71,
+      "functionName": "LoginPage",
+      "fileName": "http://localhost:5173/src/pages/public/LoginPage.jsx?t=1705669800683",
+      "columnNumber": 49
+    }
+  },
+  {
+    "name": "State",
+    "value": false,
+    "subHooks": [],
+    "hookSource": {
+      "lineNumber": 72,
+      "functionName": "LoginPage",
+      "fileName": "http://localhost:5173/src/pages/public/LoginPage.jsx?t=1705669800683",
+      "columnNumber": 55
+    }
+  },
+  {
+    "name": "State",
+    "value": false,
+    "subHooks": [],
+    "hookSource": {
+      "lineNumber": 73,
+      "functionName": "LoginPage",
+      "fileName": "http://localhost:5173/src/pages/public/LoginPage.jsx?t=1705669800683",
+      "columnNumber": 39
+    }
+  },
+  {
+    "name": "State",
+    "value": false,
+    "subHooks": [],
+    "hookSource": {
+      "lineNumber": 74,
+      "functionName": "LoginPage",
+      "fileName": "http://localhost:5173/src/pages/public/LoginPage.jsx?t=1705669800683",
+      "columnNumber": 45
+    }
+  },
+  {
+    "name": "State",
+    "value": "",
+    "subHooks": [],
+    "hookSource": {
+      "lineNumber": 75,
+      "functionName": "LoginPage",
+      "fileName": "http://localhost:5173/src/pages/public/LoginPage.jsx?t=1705669800683",
+      "columnNumber": 59
+    }
+  },
+  {
+    "name": "State",
+    "value": false,
+    "subHooks": [],
+    "hookSource": {
+      "lineNumber": 76,
+      "functionName": "LoginPage",
+      "fileName": "http://localhost:5173/src/pages/public/LoginPage.jsx?t=1705669800683",
+      "columnNumber": 49
+    }
+  },
+  {
+    "name": "State",
+    "value": false,
+    "subHooks": [],
+    "hookSource": {
+      "lineNumber": 77,
+      "functionName": "LoginPage",
+      "fileName": "http://localhost:5173/src/pages/public/LoginPage.jsx?t=1705669800683",
+      "columnNumber": 55
+    }
+  },
+  {
+    "name": "State",
+    "value": "password",
+    "subHooks": [],
+    "hookSource": {
+      "lineNumber": 78,
+      "functionName": "LoginPage",
+      "fileName": "http://localhost:5173/src/pages/public/LoginPage.jsx?t=1705669800683",
+      "columnNumber": 27
+    }
+  }
+]
